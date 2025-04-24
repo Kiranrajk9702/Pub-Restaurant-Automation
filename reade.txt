@@ -1,0 +1,12 @@
+#pip install virtualenv
+#virtualenv virtualenv
+#venv\scripts\activate.Basentpip install Flask
+#(c:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system\pubenv) PS C:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system> pubenv\Scripts\activate
+#(pubenv) (c:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system\pubenv) PS C:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system> 
+#(pubenv) (c:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system\pubenv) PS C:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system> cd app.py
+(pubenv) (c:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system\pubenv) PS C:\Users\Kiran Raj K\Desktop\Basent -  Technologies\PYTHON\automation_restorent_pub_system\app.py> python flask1.py
+ * Serving Flask app 'flask1'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5001
+ web scrapjng > Requests>html5lib to make tree kind structr >beautifilsoup bs4
